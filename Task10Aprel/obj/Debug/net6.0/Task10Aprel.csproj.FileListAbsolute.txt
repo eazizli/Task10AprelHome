@@ -1,0 +1,15 @@
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\bin\Debug\net6.0\Task10Aprel.exe
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\bin\Debug\net6.0\Task10Aprel.deps.json
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\bin\Debug\net6.0\Task10Aprel.runtimeconfig.json
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\bin\Debug\net6.0\Task10Aprel.dll
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\bin\Debug\net6.0\Task10Aprel.pdb
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.csproj.AssemblyReference.cache
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.AssemblyInfoInputs.cache
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.AssemblyInfo.cs
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.csproj.CoreCompileInputs.cache
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.dll
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\refint\Task10Aprel.dll
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.pdb
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\Task10Aprel.genruntimeconfig.cache
+C:\Users\victu\Downloads\Task10Aprel\Task10Aprel\obj\Debug\net6.0\ref\Task10Aprel.dll
